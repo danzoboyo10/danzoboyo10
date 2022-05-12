@@ -9,6 +9,6 @@ I am a highly motivated and aspiring software engineer! Ever since I was young I
 As of today, I am enrolled in a software engineering immersive program with general assembly and I am absolutely loving the program. Prior to the bootcamp, I had about 5 months of experience teaching myself how to code! My self-teaching consisted of going through online courses on Java, Python, data structures and algorithms, and speaking to anyone in the field that I could connect with.  
 
 ## Where to Reach Me ??
-Linkedin: Danny Slebodnick <br/>
+LinkedIn: Danny Slebodnick <br/>
 Gmail: Danielscotts233@gmail.com
 
