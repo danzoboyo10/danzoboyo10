@@ -6,7 +6,7 @@ I am a highly motivated and aspiring software engineer! Ever since I was young I
 
 ## What am I up to 🌱 👀 ??
 
-As of today, I am enrolled in a software engineering immersive program with general assembly and I am absolutely loving the program. Prior to the bootcamp, I had about 5 months of experience teaching myself how to code! My self-teaching consisted of going through online courses on Java, Python, data structures and algorithms, and speaking to anyone in the field that I could connect with.  
+As of today, I am a genral assembly bootcamp alumni and I am actively working on new projects specifically related to react and have been applying to software developer jobs. Prior to the bootcamp, I had about 5 months of experience teaching myself how to code! My self-teaching consisted of going through online courses on Java, Python, data structures and algorithms, and speaking to anyone in the field that I could connect with. Now I am a MERN stack developer, who is always trying to learn more.  
 
 ## Where to Reach Me ??
 LinkedIn: Danny Slebodnick <br/>
